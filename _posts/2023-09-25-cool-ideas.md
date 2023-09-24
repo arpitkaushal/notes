@@ -52,7 +52,20 @@ first, become and early riser, and some habits can help life long. So, give your
     3. a frisbee movement in delhi, go to slums. 
  
 
-6.     
+6. learning
+    1. teach suraj how to code - get hard copies from home if dad doesn't want them. can hold sessions at home, or in the park. figure.
+    2. brilliant.org with yatin, and preparing for olympiads. 
+    3. comeptitive programming, getting to some level by the next one year. create plans for each topic - graph, linked-lists, stacks in 20 hour sessions as reccomended by josh. and then cycle. develop breadth. 
+    4. internship as an electrician, or electronics repairing. can go to panipat at baljinder bua's place for this. make a deal with your tutor that you'll back with work. so, teach me how to fix my headphone, i will fix ten headphones for you with similar work. maybe you'll have to teach me more, another 10 hours investment before i can be useful but i'll pay back 5x, i'll give you fifty hours of work and i'll manage the shop. 
+    5. work at chacha's place for a while working from home.
+    6. you have four books, read them, complete their exercises and then sell them as courses. people are looking for teachers online, and this is a hot skill.
+    7. workshop to set up a simple website like this one. a small fee, say rs. 50 or rs. 100 a person, maybe as security. so, if you build the website you can have your money back. 
+    8. contibute to jekyll or mathjax, find a good first issue. 
+        1. build your own note taking app? or add a privacy plugin for some pages to reuire password, or github autenthication to see.
+    9. build a slowly extension in vscode. its an all text env that's why i insist. not asking to mix work with personal stuff. this is like an browser, right. so, for another workspace you enable this extension. 
+
+
+
 
 
 
